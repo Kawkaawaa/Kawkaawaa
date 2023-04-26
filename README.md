@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kawkaawaa
 
-- 🌱 I’m currently learning Soft Engineering at ALX program
+- 🌱 I’m currently learning Software Engineering at ALX program
 
 - 📫 How to reach me kawtar.elkhoumani@outlook.com
 
